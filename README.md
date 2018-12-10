@@ -25,7 +25,7 @@ The DGDI Dataset and associated data ('Licensed Material') are made available to
 
 # Download
 
-The current version of the DGDI Dataset [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/DGDIdatase/UQSNPRenal_dataset.7z)
+The current version of the DGDI Dataset [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/DGDIdataset/UQSNPRenal_dataset.7z)
 
 # Citation
 
